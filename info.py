@@ -55,7 +55,7 @@ SPELL_IMG = environ.get('SPELL_IMG',"https://te.legra.ph/file/e5fd8c6bc6580bea9f
 
 # Welcome area
 MELCOW_IMG = environ.get('MELCOW_IMG',"https://telegra.ph/file/4cd231fbe9085ec49e75d.jpg")
-MELCOW_VID = environ.get('MELCOW_VID',"https://telegra.ph/file/e70dc8819ad039160efa9.mp4")
+MELCOW_VID = environ.get('MELCOW_VID',"https://telegra.ph/file/b26637d70f3630a7e0fa1.mp4")
 
 
 
@@ -89,7 +89,7 @@ MAX_BTN = int(environ.get('MAX_BTN', "10"))
 S_GROUP = environ.get('S_GROUP',"https://t.me/Cinemathattakam_Group")
 MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/CT_Arena")
 FILE_FORWARD = environ.get('FILE_FORWARD',"https://t.me/+b5Y_8_bbdZVlZTA1")
-MSG_ALRT = environ.get('MSG_ALRT', 'tׁׅhׁׅ֮ɑׁׅ֮ꪀׁׅƙׁׅ֑꯱ׁׅ֒ tׁׅᨵׁׅ ꯱ׁׅ֒ɑׁׅ֮tׁׅhׁׅ֮ɑׁׅ֮ꪀׁׅ ꯱ׁׅ֒ꪱׁׅꭈׁׅ 💕')
+MSG_ALRT = environ.get('MSG_ALRT', '𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐃𝐫 സാത്താൻ 𝐒𝐢𝐫 💜')
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', 0))
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 'None'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'CT_Arena')
