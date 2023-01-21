@@ -303,8 +303,8 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢ�
     CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : <code>{file_name}</code>
 
 ╔═════•✧❅✦❅✧•═════╗
-▣ <a href=https://t.me/cinemathattakam_Group>[CT™] 📽സിനിമ തട്ടകം​</a>
-▣ <a href=https://t.me/CT_Arena>[CT™] 📽സിനിമ തട്ടകം​</a>
+▣ <a href=https://t.me/movies_hunter_official>Mᴏᴠɪᴇs Hᴜɴᴛᴇʀ Oғғɪᴄɪᴀʟ™️•</a>
+▣ <a href=https://t.me/movies_hunterGroup>Mᴏᴠɪᴇs Hᴜɴᴛᴇʀ Gʀᴏᴜᴘ™️</a>
 ╚═════•✧❅✦❅✧•═════╝</b>"""
 
     RESTART_TXT = """
