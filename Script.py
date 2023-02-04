@@ -349,9 +349,9 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢ�
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ :『🔱』Dr.സാത്താൻ 🆇🄰🆅🄸🅴🅁 𝗞Ǥ𝗙 ​
-• ᴜꜱᴇʀɴᴀᴍᴇ : @Sathan_Of_Telegram
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Sathan_Of_Telegram'>Dr.സാത്താൻ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ :√!©KY ¶ÜgâzH 😶‍🌫️ ​
+• ᴜꜱᴇʀɴᴀᴍᴇ : @VickyPugazh
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/VickyPugazh'>√!©KY ¶ÜgâzH</a></b>"""
 
     GROUP_INFO = """
 <b>⍟ Cʜᴀɴɴᴇʟs & Gʀᴏᴜᴘs Mᴏᴅᴜʟᴇ ⍟</b>
