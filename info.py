@@ -42,9 +42,9 @@ class evamaria(Client):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', 'None'))
-API_HASH = environ.get('API_HASH', 'None')
-BOT_TOKEN = environ.get('BOT_TOKEN', 'None')
+API_ID = int(environ.get('API_ID', '23263015'))
+API_HASH = environ.get('API_HASH', '352b8e4135eeb2d5ead34d097ba11d69')
+BOT_TOKEN = environ.get('BOT_TOKEN', '5922804739:AAEl1ZaQ-HSqJGUhZAMF5t2K5umAilSbmNg')
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
@@ -60,8 +60,8 @@ MELCOW_VID = environ.get('MELCOW_VID',"https://telegra.ph/file/b26637d70f3630a7e
 
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', 'None').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', 'None').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '993477816 800422840').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001541833234').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 auth_grp = environ.get('AUTH_GROUP')
@@ -74,8 +74,8 @@ TMP_DOWNLOAD_DIRECTORY = environ.get("TMP_DOWNLOAD_DIRECTORY", "./DOWNLOADS/")
 COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "/")
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "None")
-DATABASE_NAME = environ.get('DATABASE_NAME', "None")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://vicky1234:vicky1234@cluster0.f7x52vv.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 MONGO_URL = os.environ.get('MONGO_URL', "None")
 
@@ -91,7 +91,7 @@ MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/movies_hunter_official")
 FILE_FORWARD = environ.get('FILE_FORWARD',"https://t.me/+MUGQPbQKXAU0OTM1")
 MSG_ALRT = environ.get('MSG_ALRT', '𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐃𝐫 സാത്താൻ 𝐒𝐢𝐫 💜')
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', 0))
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 'None'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001653361404'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'CT_Arena')
 AUTO_DELETE = is_enabled((environ.get('AUTO_DELETE', "True")), True)
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
